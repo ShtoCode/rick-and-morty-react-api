@@ -1,0 +1,37 @@
+.background {
+  background-image: url(img/space-bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+.title {
+  font-family: "Headline Gothic", sans-serif;
+  font-size: 6em;
+  color: #39cccc;
+  text-shadow: 2px 2px #000000;
+  text-align: center;
+}
+
+.btn-rick {
+  font-family: "Headline Gothic", sans-serif;
+  font-size: 1em;
+  background-color: #39cccc;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  text-shadow: 2px 2px #000000;
+  cursor: pointer;
+}
+
+.btn-rick:hover {
+  color: #39cccc;
+  background-color: #008000;
+}
+
+.page {
+  font-family: "Headline Gothic", sans-serif;
+  color: #39cccc;
+  text-shadow: 2px 2px #000000;
+  text-align: center;
+}
